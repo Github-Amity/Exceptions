@@ -23,12 +23,22 @@ Write a program with a custom exception. Then throw the exception when a certain
   - Once you are done, run the code in your editor and make sure that your method is correct and your the format of your output matches the one given below.
 
 - ### Output:  
-  Your program should the user if their email address is valid or not.  
-  Example 1:  
-  <img width="502" alt="image" src="https://user-images.githubusercontent.com/85291498/211116620-1066ac73-b2f6-4157-9d90-73d8f7869ab0.png">    
-    
-  Example 2:  
-  <img width="300" alt="image" src="https://user-images.githubusercontent.com/85291498/211116781-bc8c88ca-9a41-41fa-8fd9-09e0738ef20f.png">  
+  Your program should tell the user if their email address is valid or not.  
+  #### Example 1:  
+  Input:  
+  <img width="302" alt="image" src="https://user-images.githubusercontent.com/85291498/211146008-ca159725-9448-4546-84f9-f18e873b4a24.png">  
+
+  Output:  
+  <img width="590" alt="image" src="https://user-images.githubusercontent.com/85291498/211146073-a3376401-588a-4189-b2bb-4e6b08d1da24.png">  
+      
+      
+  #### Example 2:  
+  Input:  
+  <img width="348" alt="image" src="https://user-images.githubusercontent.com/85291498/211146043-f511b147-e837-4395-b770-3a10e04998b4.png">  
+
+  Output:  
+  <img width="170" alt="image" src="https://user-images.githubusercontent.com/85291498/211146100-fec8cd6b-abc7-4e83-bf36-d5e49eed0eb0.png">  
+
 
 - ### Project Submission:
   - **If you're using an online compiler:** Simply create a new file, add your filename including your name (eg: SalmaExceptions.java) and open a pull request. Watch [this](https://youtu.be/xgyo7UsfKZo?t=118) to learn how to do that.  
