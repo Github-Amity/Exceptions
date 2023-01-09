@@ -1,4 +1,5 @@
 # Exceptions
+A project on Java exceptions
 
 ## What to know
 Before you begin this project, you need to be familiar with exceptions in Java.
